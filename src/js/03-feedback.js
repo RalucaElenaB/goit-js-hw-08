@@ -43,7 +43,7 @@ const storeFormFieldsInLocalStorage = event => {
   }
 };
 
-//Când se trimite formularul, la evenimentul submit,
+//Când se trimite formularul, la evenimentul submit,,
 //ștergeți câmpurile din local storage și
 //afișați în consolă obiectul cu câmpurile email, message și valorile lor curente.
 const submitfeedbackForm = event => {
